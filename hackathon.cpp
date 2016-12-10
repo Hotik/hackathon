@@ -168,7 +168,6 @@ void loop()
 
   if (radioON)
   {
-    sleep(10);
     send_data(DEFAULT_DEST_ADDR, 0);
     int wait_data = 1;
     while (wait_data)
@@ -176,17 +175,7 @@ void loop()
       wait_data = get_data();
     }
     send_data(DEFAULT_DEST_ADDR, 1);
-
-// create delay here
-
-
-
-	if(st==0&&ST==0){UpdateDB(ide, st);}
-	if(st==1&&ST==0){UpdateDB(ide, st);ST=1;book=0;}
-	if((st==2&&(ST==0||ST==1))){UpdateDB(ide, st);ST=2;book=0;}
-	if(st==0&&ST==2){UpdateDB(ide, st);ST=0;book=0;}
-         // UpdateDB(ide, st);
-
+    sleep(10);
 
   }
 }
