@@ -57,7 +57,7 @@ int book=0;
 int zero=0;
 
 
-void UpdateDB(int id, int precent)
+void UpdateDB(int id, int percent)
 {
 
     int rc;
@@ -139,14 +139,14 @@ void send_data(int adr, int packet_type)
         sx1272.CarrierSense();
         char tmp[1];
         tmp[0] = packet_type;
-        e = sx1272.sendPacketTimeout(adr, (uint8_t*)tmp , strlen(tmp), 1000);
+        int e = sx1272.sendPacketTimeout(adr, (uint8_t*)tmp , strlen(tmp), 1000);
   }
 }
 
 int get_data()
 {
   uint16_t w_timer = 5000;
-  e = sx1272.receivePacketTimeout(w_timer);
+  int e = sx1272.receivePacketTimeout(w_timer);
   if (!e)
   {
     int ind = 0;
@@ -175,7 +175,7 @@ void loop()
       wait_data = get_data();
     }
     send_data(DEFAULT_DEST_ADDR, 1);
-    sleep(10);
+    delay(10);
 
   }
 }
