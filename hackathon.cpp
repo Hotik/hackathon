@@ -153,7 +153,7 @@ int get_data()
     sx1272.getSNR();
     sx1272.getRSSIpacket();
 
-    sscanf(sx1272.packet_received.data, "%d %d", &ind, &data);
+    sscanf((const char *)sx1272.packet_received.data, "%d %d", &ind, &data);
     PRINT_STR("%s", "GET DATA");
     UpdateDB(ind, data);
     return 0;
