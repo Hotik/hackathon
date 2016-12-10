@@ -67,11 +67,10 @@ void UpdateDB(int id, int percent)
 
 	  char *sqlUpdateTable=new char[60];//malloc(60);
     sprintf(sqlUpdateTable,"Update Trash Set percent = %d where id=%d;",percent,id);
-    printf("\n\n update %d \n\n",status);
     rc = sqlite3_exec(db, sqlUpdateTable, NULL, NULL, &error);
 
     sqlite3_close(db);
-    PRINT_STRa("%s", "DATABASE UPDATE");
+    PRINT_STR("%s", "DATABASE UPDATE");
 }
 
 
@@ -153,7 +152,6 @@ int get_data()
     int data = 0;
     sx1272.getSNR();
     sx1272.getRSSIpacket();
-    tmp_length=sx1272._payloadlength;
 
     sscanf(sx1272.packet_received.data, "%d %d", &ind, &data);
     PRINT_STR("%s", "GET DATA");
