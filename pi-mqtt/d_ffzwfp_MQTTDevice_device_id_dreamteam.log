@@ -1,0 +1,179 @@
+2016-12-09 23:11:27,808   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:11:28,317   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:12:11,372   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:12:11,777   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:12:40,308   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:12:41,648   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:12:43,784   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:12:45,167   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:12:46,505   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:12:47,519   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:12:48,879   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:12:49,915   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:12:51,252   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:12:52,263   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:12:56,576   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:12:58,114   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:12:59,120   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:13:01,449   ibmiotf.device.Client      CRITICAL Not authorized: s (d:ffzwfp:MQTTDevice:device_id_dreamteam, use-token-auth, Grgu_7rgYN3qoC9QGz)
+2016-12-09 23:15:08,093   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:15:09,475   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:15:10,742   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:15:13,069   ibmiotf.device.Client      CRITICAL Not authorized: s (d:ffzwfp:MQTTDevice:device_id_dreamteam, use-token-auth, Grgu_7rgYN3qoC9QGz)
+2016-12-09 23:15:27,155   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:15:28,591   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:15:30,008   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:15:32,336   ibmiotf.device.Client      CRITICAL Not authorized: s (d:ffzwfp:MQTTDevice:device_id_dreamteam, use-token-auth, Grgu_7rgYN3qoC9QGz)
+2016-12-09 23:19:24,979   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:19:27,991   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:19:29,207   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:19:32,653   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:19:33,551   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:19:37,208   ibmiotf.device.Client      CRITICAL Not authorized: s (d:ffzwfp:MQTTDevice:device_id_dreamteam, use-token-auth, Grgu_7rgYN3qoC9QGz)
+2016-12-09 23:20:29,968   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:20:31,795   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:20:33,033   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:20:35,887   ibmiotf.device.Client      CRITICAL Not authorized: s (d:ffzwfp:MQTTDevice:device_id_dreamteam, use-token-auth, Grgu_7rgYN3qoC9QGz)
+2016-12-09 23:22:41,079   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:22:42,460   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:22:43,827   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:22:46,246   ibmiotf.device.Client      CRITICAL Not authorized: s (d:ffzwfp:MQTTDevice:device_id_dreamteam, use-token-auth, Grgu_7rgYN3qoC9QGz)
+2016-12-09 23:23:49,906   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:23:51,273   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:24:00,946   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:24:02,308   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:24:49,434   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:24:50,876   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:25:02,767   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:25:04,187   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:25:10,430   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:25:13,926   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:25:19,197   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:25:22,631   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:25:28,352   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:25:31,836   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:27:40,389   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:27:42,713   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:28:19,574   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:28:22,229   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:32:51,525   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:32:53,421   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:33:43,208   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:33:45,624   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:33:50,028   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:33:53,409   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:37:36,300   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:37:38,831   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:37:53,904   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:37:59,253   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:40:03,306   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:40:08,711   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:44:20,839   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:44:23,160   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:45:47,216   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:45:49,545   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:46:15,972   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:46:18,296   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:46:24,636   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:46:31,009   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:46:37,429   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:46:40,845   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:57:04,975   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-09 23:57:10,378   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:57:17,933   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:57:24,342   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:57:34,376   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:57:38,301   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-09 23:57:44,432   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:57:46,872   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:57:49,199   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:57:51,600   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-09 23:57:58,301   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 00:02:47,693   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 00:02:53,115   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 00:02:58,401   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 00:03:01,836   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 00:03:07,384   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 00:03:13,806   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 00:10:54,841   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 00:11:00,446   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 00:11:09,773   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 00:11:16,116   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 00:11:25,456   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:38:57,771   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 13:40:05,589   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:40:06,949   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:40:11,003   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:40:12,388   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:40:14,408   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:40:16,498   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:40:18,470   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:40:19,879   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:40:21,678   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:40:23,070   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:40:25,402   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:40:26,863   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:40:29,368   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:40:31,811   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:40:34,365   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:40:42,525   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 13:40:43,997   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:40:47,365   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:40:49,782   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:40:52,364   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:40:54,950   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:40:57,333   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:41:00,689   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:41:04,357   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:41:07,851   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:41:11,355   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:46:48,540   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 13:46:49,942   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:46:53,627   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:46:57,003   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:47:26,868   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 13:47:29,202   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:47:32,609   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:47:35,971   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:47:39,635   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:47:43,207   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:47:47,639   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:48:25,088   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 13:48:27,425   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:48:31,606   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:48:35,002   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:48:38,604   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:48:41,966   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:48:55,299   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 13:48:58,760   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:49:05,647   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:49:24,063   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:50:38,464   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 13:50:43,926   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:50:50,684   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:50:54,122   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:51:00,617   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:51:34,344   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 13:51:36,673   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:51:44,718   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 13:51:50,038   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:51:57,728   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 13:52:03,082   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:52:06,870   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:52:13,220   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 13:52:18,825   ibmiotf.device.Client      CRITICAL Invalid Event: Unable to parse JSON.  payload="{“message“ : “hello device from swift”}" error=Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2016-12-10 13:52:19,671   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform
+2016-12-10 13:52:26,228   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 16:55:02,567   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 16:55:02,911   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 16:55:15,635   ibmiotf.device.Client      CRITICAL Invalid Event: Unable to parse JSON.  payload="{“message“ : “hello device from swift”}" error=Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2016-12-10 16:55:24,548   ibmiotf.device.Client      CRITICAL Invalid Event: Unable to parse JSON.  payload="{“message“ : “hello device from swift”}" error=Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2016-12-10 16:55:52,996   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 16:55:53,319   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 16:56:16,487   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 16:56:16,886   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 16:59:32,082   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 16:59:32,399   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
+2016-12-10 16:59:54,411   ibmiotf.device.Client      CRITICAL Invalid Event: Unable to parse JSON.  payload="{“message“ : “hello device from swift”}" error=Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2016-12-10 17:03:10,998   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2016-12-10 17:03:11,319   ibmiotf.device.Client      INFO    Connected successfully: d:ffzwfp:MQTTDevice:device_id_dreamteam, Port: 1883
